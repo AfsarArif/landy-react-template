@@ -59,8 +59,9 @@ export const Menu = styled("h5")`
 
 export const CustomNavLinkSmall = styled(NavLink)`
   font-size: 1.2rem;
-  color: #18216d;
+  color: #000;
   transition: color 0.2s ease-in;
+  transition: font-size 0.3s ease;
   margin: 0.5rem 2rem;
 
   @media only screen and (max-width: 768px) {
@@ -88,8 +89,9 @@ export const Span = styled("span")`
   &:hover,
   &:active,
   &:focus {
-    color: rgb(255, 130, 92);
+    font-size: 1.4rem;
+    color: #AC11C1;
     text-underline-position: under;
-    text-decoration: rgb(255, 130, 92) wavy underline;
+    text-decoration: #AC11C1 wavy underline;
   }
 `;

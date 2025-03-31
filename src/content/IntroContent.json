@@ -1,13 +1,9 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Assess Your Agile Maturity and Transform Your Team’s Performance",
+  "text": "AgileStudioX provides data‑driven insights and collaborative tools to help tech‑driven organizations continuously improve and reach new levels of Agile excellence.",
   "button": [
     {
-      "title": "Explore"
-    },
-    {
-      "title": "Learn more",
-      "color": "#fff"
+    "title": "Explore"
     }
   ]
 }

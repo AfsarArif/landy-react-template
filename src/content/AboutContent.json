@@ -1,16 +1,4 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
-  "section": [
-    {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
-    }
-  ]
+  "title": "What is AgileStudioX?",
+  "text": "AgileStudioX is a cutting-edge assessment platform designed to help technology-driven teams evaluate and enhance their Agile maturity. By leveraging Agile principles, our solution empowers teams, managers, and coaches with the insights they need to foster continuous improvement. With structured assessments conducted quarterly, AgileStudioX enables organizations to track progress, identify challenges, and cultivate a high-performing Agile culture."
 }
